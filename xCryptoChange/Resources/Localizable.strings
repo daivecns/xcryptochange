@@ -1,0 +1,46 @@
+/* Strings da ListView */
+"main.title" = "xCryptoChange";
+
+/* Strings da DetailsView */
+"details.title" = "Details";
+"details.exchangeID.caption" = "Exchange ID:";
+"details.exchangeName.caption" = "Exchange Name:";
+"details.exchangeSite.caption" = "Website:";
+"details.rank.caption" = "Rank:";
+"details.dataQuoteStart.caption" = "Data Quote Start:";
+"details.dataQuoteEnd.caption" = "Data Quote End:";
+"details.dataOrderbookStart.caption" = "Data Orderbook Start:";
+"details.dataOrderbookEnd.caption" = "Data Orderbook End:";
+"details.dataTradeStart.caption" = "Data Trade Start:";
+"details.dataTradeEnd.caption" = "Data Trade End:";
+"details.dataSymbolsCount.caption" = "Data Symbols Qty:";
+"details.hourlyVolume.caption" = "Hourly Volume (USD):";
+"details.dailyVolume.caption" = "Daily Volume (USD):";
+"details.monthlyVolume.caption" = "Monthly Volume (USD):";
+
+/* Strings da Célula do ListView */
+"exchangeCell.identifier" = "exchangeCell";
+"exchangeCell.exchangeID.caption" = "Exchange ID:";
+"exchangeCell.exchangeName.caption" = "Exchange Name:";
+"exchangeCell.exchangeSite.caption" = "Website:";
+"exchangeCell.dailyVolume.caption" = "Daily Volume (USD):";
+
+/* Strings dos cenários de erro */
+"errors.invalidJSON.message" = "Ocorreu um erro ao processar os dados.\nO formato da resposta não é válido. Por favor, tente novamente mais tarde.";
+"errors.invalidRequest.message" = "A solicitação não pôde ser processada.\nVerifique os dados enviados e tente novamente.";
+"errors.notConnected.message" = "Parece que você está offline.\nVerifique sua conexão com a internet e tente novamente.";
+"errors.unknown.message" = "Ocorreu um erro inesperado.\nPor favor, tente novamente.";
+
+/* Strings das imagens de erro */
+"errors.invalidJSON.image" = "text.page.slash";
+"errors.invalidRequest.image" = "exclamationmark.circle.fill";
+"errors.notConnected.image" = "wifi.slash";
+"errors.unknown.image" = "wifi.exclamationmark";
+
+/* Strings da view de erro */
+"errorView.retryButton.caption" = "Tentar novamente";
+
+/* Strings de acessibilidade*/
+"accessibility.listView.tableView.identifier" = "exchangesList";
+"accessibility.errorView.image.identifier" = "apiErrorImage";
+"accessibility.errorView.message.identifier" = "apiErrorMessage";

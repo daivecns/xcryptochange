@@ -1,0 +1,10 @@
+input_dir: xCryptoChange/Resources
+output_dir: xCryptoChange/Resources/Generated/
+strings:
+  - inputs: Localizable.strings
+    outputs:
+      templateName: structured-swift5
+      output: Strings.generated.swift
+      params:
+        publicAccess: false
+        enumName: "Strings"

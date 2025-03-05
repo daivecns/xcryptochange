@@ -1,0 +1,50 @@
+[
+    {
+        "exchange_id": "BINANCE",
+        "website": "https://www.binance.com/",
+        "name": "Binance",
+        "data_quote_start": "2017-12-18T00:00:00.0000000Z",
+        "data_quote_end": "2025-02-25T00:00:00.0000000Z",
+        "data_orderbook_start": "2017-12-18T00:00:00.0000000Z",
+        "data_orderbook_end": "2025-02-27T00:00:00.0000000Z",
+        "data_trade_start": "2017-07-14T00:00:00.0000000Z",
+        "data_trade_end": "2025-02-24T00:00:00.0000000Z",
+        "data_symbols_count": 2990,
+        "volume_1hrs_usd": 455158291.53,
+        "volume_1day_usd": 21415960136.48,
+        "volume_1mth_usd": 521090749352.04,
+        "rank": 2
+    },
+    {
+        "exchange_id": "KRAKEN",
+        "website": "https://www.kraken.com/",
+        "name": "Kraken",
+        "data_quote_start": "2014-07-31T00:00:00.0000000Z",
+        "data_quote_end": "2025-02-25T00:00:00.0000000Z",
+        "data_orderbook_start": "2014-07-31T13:05:46.0000000Z",
+        "data_orderbook_end": "2025-02-27T00:00:00.0000000Z",
+        "data_trade_start": "2013-10-22T00:00:00.0000000Z",
+        "data_trade_end": "2025-02-24T00:00:00.0000000Z",
+        "data_symbols_count": 1181,
+        "volume_1hrs_usd": 26563545.28,
+        "volume_1day_usd": 1104158773.53,
+        "volume_1mth_usd": 37070579685.53,
+        "rank": 2
+    },
+    {
+        "exchange_id": "COINBASE",
+        "website": "https://pro.coinbase.com/",
+        "name": "Coinbase Pro (GDAX)",
+        "data_quote_start": "2015-05-17T00:00:00.0000000Z",
+        "data_quote_end": "2025-02-27T00:00:00.0000000Z",
+        "data_orderbook_start": "2015-05-17T00:00:00.0000000Z",
+        "data_orderbook_end": "2025-02-27T00:00:00.0000000Z",
+        "data_trade_start": "2015-01-14T00:00:00.0000000Z",
+        "data_trade_end": "2025-02-24T00:00:00.0000000Z",
+        "data_symbols_count": 746,
+        "volume_1hrs_usd": 80824012.43,
+        "volume_1day_usd": 3861615724.38,
+        "volume_1mth_usd": 110760208215.42,
+        "rank": 2
+    }
+]
